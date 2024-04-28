@@ -240,7 +240,7 @@ export class PoolFarmImpl {
       userStakingAddress
     );
 
-    return userState.balanceStaked;
+    return userState;
   }
 
   getUserPda(owner: PublicKey) {
