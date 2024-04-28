@@ -8,6 +8,7 @@ export const FARMING_API_ENDPOINT = Object.freeze({
 
 export const FARM_PROGRAM_ID = new PublicKey(
   "AVNKaqUEhtb5XMfmV6yhfzfRQzSVBYevYXq7HXTzPqaq"
+  // "FarmuwXPWXvefWUeqFAa5w6rifLkq5X6E8bimYvrhCB1"
 );
 
 export const AMM_PROGRAM_ID = new PublicKey(
